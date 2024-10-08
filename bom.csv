@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"UIR1, UIR2",2," IR sensor"
+"SERVO1",1,"Positional Micro Servo"
+"U2",1," Arduino Uno R3"
+"U6",1,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
